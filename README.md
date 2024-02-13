@@ -15,7 +15,7 @@ Before you get started, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Devdoot-Maji/Angular16-DotNet-Base-Repository.git
+   git clone https://github.com/Devdoot-Maji/Angular-v16-DotNet-Base-Repository
    cd your-project
    ```
 
